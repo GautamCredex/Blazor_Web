@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "7MNClcfcPQ+NIJ0gfS8Irf+zi0fGuaVUbhESaY1/2MA=",
+  "Source": "Models",
+  "BasePath": "_content/Models",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Models\\wwwroot",
+      "Source": "Models",
+      "ContentRoot": "D:\\C#\\Blazor\\EmployeeManagement.Models\\Models\\wwwroot\\",
+      "BasePath": "_content/Models",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\C#\\Blazor\\EmployeeManagement.Models\\Models\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Models.styles.css",
+      "SourceId": "Models",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\C#\\Blazor\\EmployeeManagement.Models\\Models\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/Models",
+      "RelativePath": "Models.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\C#\\Blazor\\EmployeeManagement.Models\\Models\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Models.styles.css"
+    },
+    {
+      "Identity": "D:\\C#\\Blazor\\EmployeeManagement.Models\\Models\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Models.bundle.scp.css",
+      "SourceId": "Models",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\C#\\Blazor\\EmployeeManagement.Models\\Models\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Models",
+      "RelativePath": "Models.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\C#\\Blazor\\EmployeeManagement.Models\\Models\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Models.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\C#\\Blazor\\EmployeeManagement.Models\\Models\\wwwroot\\background.png",
+      "SourceId": "Models",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C#\\Blazor\\EmployeeManagement.Models\\Models\\wwwroot\\",
+      "BasePath": "_content/Models",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "D:\\C#\\Blazor\\EmployeeManagement.Models\\Models\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "Models",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C#\\Blazor\\EmployeeManagement.Models\\Models\\wwwroot\\",
+      "BasePath": "_content/Models",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    }
+  ]
+}
